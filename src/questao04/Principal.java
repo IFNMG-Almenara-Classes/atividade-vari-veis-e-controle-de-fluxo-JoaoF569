@@ -7,8 +7,8 @@ public class Principal {
         int senha = entrada.nextInt();
 
         if (senha == 1234)
-            System.out.print("ACESSO PERMITIDO");
+            System.out.print("ACESSO PERMITIDO!");
         else
-            System.out.print("ACESSO NEGADO");
+            System.out.print("ACESSO NEGADO!");
     }
 }
